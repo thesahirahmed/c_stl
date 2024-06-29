@@ -1,5 +1,5 @@
 # C++ Standard Template Library (STL)
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="1000">
 <br><br>
 
 This project aims to provide a comprehensive explanation of the C++ Standard Template Library (STL). The STL is a powerful set of reusable components that provide data structures and algorithms for efficient programming in C++.
