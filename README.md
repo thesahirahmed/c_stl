@@ -56,6 +56,6 @@ This project was authored by [Sahir Ahmed](https://www.linkedin.com/in/sahir-ahm
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sahir%20Ahmed-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sahir-ahmed)
 
 <p align="center">
-  <img src="https://github.com/thesahirahmed/gif/blob/main/loader.gif?raw=true" width="400">
+  <img src="https://github.com/thesahirahmed/gif/blob/main/loader.gif?raw=true" width="1000">
 </p>
 
